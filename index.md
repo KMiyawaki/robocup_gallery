@@ -6,6 +6,12 @@ Osaka Institute of Technology, Faculty of Robotics and Design and Faculty of Inf
 
 ---
 
+## RASALAS
+
+![20190424_072935.jpg](./photos/20190424_072935.jpg)
+![20190424_072943.jpg](./photos/20190424_072943.jpg)
+![RoboCup2019_mechanum.png](./photos/RoboCup2019_mechanum.png)
+
 ## ORION Ver.2
 
 ![20190128_114005.jpg](./photos/20190128_114005.jpg)
